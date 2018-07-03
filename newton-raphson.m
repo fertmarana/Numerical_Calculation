@@ -1,6 +1,6 @@
 function [resposta] = met_newton(funcao, tolerancia);
     """
-    Calcula uma aproximação para a raiz de uma função 
+    Calcula uma aproximacao para a raiz de uma funcao
       utilizando o metodo de Newton.
     """
     
